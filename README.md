@@ -1,3 +1,5 @@
+## https://web.archive.org/web/20171021140142/https://edoverflow.com/2017/broken-link-hijacking/
+
 # broken-link-checker [![NPM Version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][david-image]][david-url]
 
 > Find broken links, missing images, etc in your HTML.
